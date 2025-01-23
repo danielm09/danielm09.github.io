@@ -1,5 +1,10 @@
 # Geospatial Data Scientist
-Technical Skills: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
+Machine Learning and Earth Observation enthusiast.  
+
+**Experience and Technical Skills:**
+- Deep learning, self-supervised learning, masked autoencoders, convolutional neural networks, random forest
+- Sentinel-2 & Landsat
+- Python: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
 
 ## Education
 - PhD Candidate in Geoinformatics @ Nova IMS, Universidade Nova de Lisboa
