@@ -3,8 +3,9 @@ logo: /assets/img/profile_pic.png
 description: Geospatial data scientist, PhD candidate
 show_downloads: false
 #theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "godalming123/minimal"
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+color-scheme: auto-default-dark
 
 
