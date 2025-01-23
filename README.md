@@ -3,8 +3,9 @@ Machine Learning and Earth Observation enthusiast.
 
 **Experience and Technical Skills:**
 - Deep learning, self-supervised learning, masked autoencoders, convolutional neural networks, random forest
-- Sentinel-2 & Landsat
 - Python: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
+- QGIS, ArcGIS, Google Earth Engine (Python & JS APIs)
+- Sentinel-2 & Landsat
 
 ## Education
 - PhD Candidate in Geoinformatics @ Nova IMS, Universidade Nova de Lisboa
