@@ -2,10 +2,6 @@ title: Daniel Moraes
 logo: /assets/img/profile_pic.png
 description: Geospatial data scientist, PhD candidate
 show_downloads: false
-#theme: jekyll-theme-minimal
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: auto
+theme: jekyll-theme-minimal
+
 
