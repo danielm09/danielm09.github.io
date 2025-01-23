@@ -2,8 +2,8 @@
 Technical Skills: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
 
 ## Education
-- PhD Candidate in Geoinformatics | Nova IMS, Universidade Nova de Lisboa
-- Master's degree in Geographic Information Systems and Science | Nova IMS, Universidade Nova de Lisboa
+- PhD Candidate in Geoinformatics @ Nova IMS, Universidade Nova de Lisboa
+- Master's degree in Geographic Information Systems and Science @ Nova IMS, Universidade Nova de Lisboa
 
 ## Projects
 ### GeoRasterRF
