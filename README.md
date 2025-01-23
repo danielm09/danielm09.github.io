@@ -22,7 +22,7 @@ This project aimed to use data from the Portuguese National Forest Inventory (NF
 [Link to repo](https://github.com/danielm09/IFN_WSL_Deploy)
 
 ## Geospatial data science blog
-https://medium.com/@moraesd90
+[https://medium.com/@moraesd90](https://medium.com/@moraesd90)
 
 
 ## Publications
