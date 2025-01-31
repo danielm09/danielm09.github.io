@@ -4,6 +4,7 @@ Machine Learning and Earth Observation enthusiast.
 **Technical Skills:**
 - Deep learning, self-supervised learning, masked autoencoders, convolutional neural networks, random forest
 - Python: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
+- Cloud computing (AWS Cloud Practitioner Certificate)
 - QGIS, ArcGIS, Google Earth Engine (Python & JS APIs)
 - Sentinel-2 & Landsat
 
