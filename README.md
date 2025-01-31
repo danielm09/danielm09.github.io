@@ -16,7 +16,7 @@ Machine Learning and Earth Observation enthusiast.
 ### GeoRasterRF
 <img src="/assets/img/GeoRFIcon.svg" alt="GeoRasterRFIcon" width="100" height="100" />
 
-App containing a graphical user interface to train **Random Forest** models to classify geospatial images. The app also allows users to classify csv data for accuracy assessment. It was developed during my Master's thesis, which aimed to use Sentinel-2 images and the RF algorithm to classify land cover in Portugal.
+App containing a graphical user interface to train **Random Forest** models to classify geospatial images. The app also allows users to classify csv data for accuracy assessment. It was developed as a Master's thesis project, which aimed to use Sentinel-2 images and the RF algorithm to classify land cover in Portugal.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/danielm09/GeoRasterRF)
 
