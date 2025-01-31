@@ -2,10 +2,17 @@ title: Daniel Moraes
 logo: /assets/img/profile_pic.png
 description: Geospatial data scientist, PhD candidate
 show_downloads: false
+location: Lisbon, Portugal
+profile_bluesky: https://bsky.app/profile/danielmoraesofc.bsky.social
+profile_linkedin: https://www.linkedin.com/in/danielmoraes09
+profile_medium: https://medium.com/@moraesd90
+profile_github: https://github.com/danielm09
+profile_google_scholar: https://scholar.google.com/citations?user=rQ4chtwHwSwC
 #theme: jekyll-theme-minimal
-remote_theme: "godalming123/minimal"
+remote_theme: "danielm09/jekyll_minimal"
+#"godalming123/minimal"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-color-scheme: auto-default-dark
+#color-scheme: auto-default-dark
 
 
