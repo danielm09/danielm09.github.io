@@ -33,7 +33,7 @@ Project developed in collaboration with the General-Directorate of the Territory
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manuelcampagnolo/S2CHANGE)
 
 ### IFN-WSL-SSL (migration to GitHub in progress)
-<img src="/assets/img/figura_MAE.png" alt="CCD-PluginIcon" width="60%" height="auto">
+<img src="/assets/img/figura_MAE.png" alt="CCD-PluginIcon" width="100%" height="auto">
 
 This project aimed to use data from the Portuguese National Forest Inventory (NFI) for semantic segmentation of land cover on Sentinel-2 images with **convolutional neural networks**. NFI point data were used to create a training sample. NFI-derived sparse labels were used to train a **weakly supervised** semantic segmentation deep learning model based on the ConvNext-V2 architecture. Additionally, a **self-supervised masked autoencoder** model was pretrained and subsequently finetuned using the weakly supervised approach. Results showcased the benefits of the self-supervised pretraining, which improved the overall accuracy over the baseline model.
 
