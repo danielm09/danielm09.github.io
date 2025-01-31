@@ -1,7 +1,7 @@
 # Geospatial Data Scientist
 Machine Learning and Earth Observation enthusiast.  
 
-**Experience and Technical Skills:**
+**Technical Skills:**
 - Deep learning, self-supervised learning, masked autoencoders, convolutional neural networks, random forest
 - Python: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
 - QGIS, ArcGIS, Google Earth Engine (Python & JS APIs)
