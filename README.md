@@ -13,7 +13,7 @@ Machine Learning and Earth Observation enthusiast.
 - Master's degree in Geographic Information Systems and Science @ Nova IMS, Universidade Nova de Lisboa
 
 ## Projects
-### IFN-WSL-SSL (migration to GitHub in progress)
+### NFI-WSL-SSL
 <img src="/assets/img/figura_MAE.png" alt="CCD-PluginIcon" width="100%" height="auto">
 
 This project aimed to use data from the Portuguese National Forest Inventory (NFI) for semantic segmentation of land cover on Sentinel-2 images with **convolutional neural networks**. NFI point data were used to create a training sample. NFI-derived sparse labels were used to train a **weakly supervised** semantic segmentation deep learning model based on the ConvNext-V2 architecture. Additionally, a **self-supervised masked autoencoder** model was pretrained and subsequently finetuned using the weakly supervised approach. Results showcased the benefits of the self-supervised pretraining, which improved the overall accuracy over the baseline model.
