@@ -35,6 +35,8 @@ The plugin was developed with the purpose of integrating the **Continuous Change
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/SMByC/CCD-Plugin)
 
 ### S2Change (contributor)
+<img src="/assets/img/S2Change_logo.png" alt="S2Change_logo" width="170" height="auto">
+
 Project developed in collaboration with the General-Directorate of the Territory and the School of Agriculture (University of Lisbon) in Portugal, aiming to map vegetation loss at country scale using the Continuous Change Detection (CCD) algorithm and Sentinel-2 data. Adaptations were made to the **pyccd** implementation of the CCD algorithm in order to allow it to work with **Sentinel-2** images. After an initial stage of development, experimentation and parameter tuning, the project is currently in a phase of tests that include deploying the algorithm countrywide using resources from a **HPC** cluster.
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/manuelcampagnolo/S2CHANGE)
