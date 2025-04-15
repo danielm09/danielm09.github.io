@@ -4,10 +4,10 @@ Machine Learning and Earth Observation enthusiast.
 **Technical Skills:**
 - Deep learning, self-supervised learning, masked autoencoders, convolutional neural networks, random forest
 - Python: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
+- PostgreSQL, PostGIS
 - Cloud computing (AWS Cloud Practitioner Certificate)
 - Docker, CI/CD
-- QGIS, ArcGIS, Google Earth Engine (Python & JS APIs)
-- Sentinel-2 & Landsat
+- QGIS, ArcGIS, Google Earth Engine
 
 ## Education
 - PhD Candidate in Geoinformatics @ Nova IMS, Universidade Nova de Lisboa
@@ -19,7 +19,7 @@ Machine Learning and Earth Observation enthusiast.
 
 This project aimed to use data from the Portuguese National Forest Inventory (NFI) for semantic segmentation of land cover on Sentinel-2 images with **convolutional neural networks**. NFI point data were used to create a training sample. NFI-derived sparse labels were used to train a **weakly supervised** semantic segmentation deep learning model based on the ConvNext-V2 architecture. Additionally, a **self-supervised masked autoencoder** model was pretrained and subsequently finetuned using the weakly supervised approach. Results showcased the benefits of the self-supervised pretraining, which improved the overall accuracy over the baseline model.
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/danielm09/NFI-WSL-SSL)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/danielm09/NFI-WSL-SSL) [![View DOI](https://img.shields.io/badge/doi-10.3390/rs17040711-lightgreen)](https://doi.org/10.3390/rs17040711)
 
 ### GeoQuery
 <img src="/assets/img/diagram_GeoQuery.png" alt="GeoQuery Diagram" width="100%" height="auto">
