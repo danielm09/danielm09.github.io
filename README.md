@@ -5,6 +5,7 @@ Machine Learning and Earth Observation enthusiast.
 - Deep learning, self-supervised learning, masked autoencoders, convolutional neural networks, random forest
 - Python: pandas, geopandas, rasterio, gdal, xarray, dask, pytorch, tensorflow, scikit-learn
 - Cloud computing (AWS Cloud Practitioner Certificate)
+- Docker, CI/CD
 - QGIS, ArcGIS, Google Earth Engine (Python & JS APIs)
 - Sentinel-2 & Landsat
 
@@ -19,6 +20,11 @@ Machine Learning and Earth Observation enthusiast.
 This project aimed to use data from the Portuguese National Forest Inventory (NFI) for semantic segmentation of land cover on Sentinel-2 images with **convolutional neural networks**. NFI point data were used to create a training sample. NFI-derived sparse labels were used to train a **weakly supervised** semantic segmentation deep learning model based on the ConvNext-V2 architecture. Additionally, a **self-supervised masked autoencoder** model was pretrained and subsequently finetuned using the weakly supervised approach. Results showcased the benefits of the self-supervised pretraining, which improved the overall accuracy over the baseline model.
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/danielm09/NFI-WSL-SSL)
+
+### GeoQuery
+<img src="/assets/img/diagram_GeoQuery.png" alt="GeoQuery Diagram" width="100%" height="auto">
+
+This is a **prototype** of a chatbot designed to answer geospatial questions. It uses an **LLM Agent** powered by **LangChain**, with a set of tools that allow querying reference geospatial datasets, such as a spatial database and geotiff images. Based on a user prompt, the agent can decides autonomously which tools and datasets to use in order to answer the question. The app uses the **OpenAI API** but it can also be configured to use local LLMs via **Ollama**. The chat UI is based on **streamlit** and the app is encapsulated in a **docker container**.
 
 ### GeoRasterRF
 <img src="/assets/img/GeoRFIcon.svg" alt="GeoRasterRFIcon" width="100" height="100" />
