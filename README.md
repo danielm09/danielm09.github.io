@@ -26,6 +26,8 @@ This project aimed to use data from the Portuguese National Forest Inventory (NF
 
 This is a **prototype** of a chatbot designed to answer geospatial questions. It uses an **LLM Agent** powered by **LangChain**, with a set of tools that allow querying reference geospatial datasets, such as a spatial database and geotiff images. Based on a user prompt, the agent can decides autonomously which tools and datasets to use in order to answer the question. The app uses the **OpenAI API** but it can also be configured to use local LLMs via **Ollama**. The chat UI is based on **streamlit** and the app is encapsulated in a **docker container**.
 
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/danielm09/GeoQuery)
+
 ### GeoRasterRF
 <img src="/assets/img/GeoRFIcon.svg" alt="GeoRasterRFIcon" width="100" height="100" />
 
