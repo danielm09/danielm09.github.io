@@ -24,6 +24,8 @@ This project aimed to use data from the Portuguese National Forest Inventory (NF
 ### GeoQuery
 <img src="/assets/img/diagram_GeoQuery.png" alt="GeoQuery Diagram" width="100%" height="auto">
 
+[Check web app here](http://3.84.27.180:8501/)
+
 This is a **prototype** of a chatbot designed to answer geospatial questions. It uses an **LLM Agent** powered by **LangChain**, with a set of tools that allow querying reference geospatial datasets, such as a spatial database and geotiff images. Based on a user prompt, the agent decides autonomously which tools and datasets to use in order to answer the question. The app uses the **OpenAI API** but it can also be configured to use local LLMs via **Ollama**. The chat UI is based on **streamlit** and the app is encapsulated in a **docker container**.
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/danielm09/GeoQuery)
