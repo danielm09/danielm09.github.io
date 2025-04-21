@@ -26,7 +26,7 @@ This project aimed to use data from the Portuguese National Forest Inventory (NF
 
 This is a **prototype** of a chatbot app designed to answer geospatial questions. It uses an **LLM Agent** powered by **LangChain**, with a set of tools that allow querying reference geospatial datasets, such as a spatial database and geotiff images. Based on a user prompt, the agent decides autonomously which tools and datasets to use in order to answer the question. The app uses the **OpenAI API** but it can also be configured to use local LLMs via **Ollama**. The chat UI is based on **streamlit** and the app is encapsulated in a **docker container**.
 
-[![View_App](https://img.shields.io/badge/GeoQuery-View_app-white?logo=streamlit)](http://www.dm-geo.com/geoquery)
+[![View_App](https://img.shields.io/badge/GeoQuery-View_app-white?logo=streamlit)](http://www.dm-geo.com/geoquery) ![Check_status](https://img.shields.io/website?url=https%3A%2F%2Fdm-geo.com%2Fgeoquery%2Fhealthz&label=App%20status)
 
 
 ### GeoRasterRF
@@ -41,7 +41,7 @@ App containing a graphical user interface to train **Random Forest** models to c
 
 The plugin was developed with the purpose of integrating the **Continuous Change Detection** algorithm to the QGIS environment. It relies on the **Google Earth Engine** platform to retrieve and process Landsat and Sentinel-2 data, providing a fast and simple way to detect changes and explore pixel time series on QGIS. The plugin is publicly available and can be downloaded on QGIS from the official plugins repository.  
   
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/SMByC/CCD-Plugin) [![Open_Source_Contrib](https://img.shields.io/badge/QGIS-Open_Source_Contribution-brightgreen?logo=qgis)](https://github.com/qgis/QGIS)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?logo=GitHub)](https://github.com/SMByC/CCD-Plugin) ![Open_Source_Contrib](https://img.shields.io/badge/QGIS-Open_Source_Contribution-brightgreen?logo=qgis)
 
 
 ### S2Change (contributor)
